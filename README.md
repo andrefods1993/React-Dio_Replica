@@ -1,72 +1,70 @@
-# Getting Started with Create React App
+# Replica do Site Dio.me
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📎 Sumário
 
-## Available Scripts
+-   [📝 Descrição](#description)
+-   [🔧 Tecnologias](#skills)
+-   [📚 Funcionalidades](#functionalities)
+-   [🚀 Demonstração](#demo)
+-   [🧑🏾‍💻 Colaboradores](#contributor)
+-   [🎯 Status](#status)
+-   [🧑🏾‍💻 Licença](#license)
 
-In the project directory, you can run:
+<h2 id="description">📝 Descrição</h2>
 
-### `npm start`
+Este é um projeto desenvolvido em React que replica a funcionalidade do site Dio.me. O foco principal foi criar a tela de login e a página inicial, que exibe artigos e um ranking de usuários.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **styled-components**: Biblioteca para estilização de componentes utilizando CSS-in-JS.
+- **react-router-dom**: Biblioteca para roteamento em aplicações React.
+- **@hookform/resolvers/yup**: Integração do React Hook Form com a biblioteca Yup para validação de formulários.
+- **react-hook-form**: Biblioteca para gerenciamento de formulários em React.
+- **react-icons**: Biblioteca para usar ícones no React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<h2 id="skills">🔧 Tecnologias</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,npm,react,styledcomponents)](https://skillicons.dev)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2 id="functionalities">📚 Funcionalidades</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Tela de Login**: Permite que os usuários façam login na aplicação.
+- **Home**: Exibe uma lista de artigos e um ranking de usuários, proporcionando uma experiência semelhante ao site original.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2 id="demo">🚀 Demonstração</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/repo-dio-me.git
+   cd repo-dio-me
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Instale as dependências**:
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Inicie a aplicação**:
+   ```bash
+   npm start
+   ```
 
-## Learn More
+4. **Abra o navegador** e acesse `http://localhost:3000`.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2 id="contributor">🧑🏾‍💻 Colaboradores</h2>
 
-### Code Splitting
+[@andrefods1993](https://github.com/andrefods1993)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h2 id="status">🎯 Status do projeto</h2>
 
-### Analyzing the Bundle Size
+✅ **Concluído**: O projeto foi finalizado e todas as funcionalidades planejadas foram implementadas.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h2 id="license">📄 Licença</h2>
 
-### Making a Progressive Web App
+Este projeto é licenciado sobre a licença [MIT License](https://opensource.org/licenses/MIT) - veja [LICENSE](LICENSE) para mais informações.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React-Dio_Replica
-# React-Dio_Replica
+<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
